@@ -1,2 +1,2 @@
-# victorina18n.github.io
+# victorina18n
 Мой первый сайт
